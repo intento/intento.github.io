@@ -1,0 +1,3 @@
+[submodule "intento-api"]
+	path = intento-api
+	url = https://github.com/intento/intento-api.git
